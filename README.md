@@ -1,6 +1,8 @@
 # DLNLRR-master
-Non-negative Low-Rank Representation based on dictionary learning for single-cell RNA-sequencing data analysis
 DLNLRR-master is an matlab toolkit for single-cell RNA-sequencing data analysis.
+
+The parameters used in the experiment can be found in the paper: Non-negative Low-Rank Representation based on dictionary learning for single-cell RNA-sequencing data analysis
+
 
 code
 main.m is main program
