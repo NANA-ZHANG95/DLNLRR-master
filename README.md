@@ -5,7 +5,9 @@ The parameters used in the experiment can be found in the paper: Non-negative Lo
 
 
 code
+
 main.m is main program
+
 GCFNLRR.m is the main function of the method
 
 Cal_ARI.m and Cal_NMI.m are two evaluation indicators used in clustering experiments
